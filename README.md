@@ -11,7 +11,8 @@ As regras são idênticas ao jogo convencional, contudo, para ganhar nesse, é n
 * Níveis de dificuldade
 * Adição de sons e animações
 
-
+##  Tela do Jogo:
+![Foto 1](https://user-images.githubusercontent.com/60825497/86849136-961eb680-c085-11ea-8ea2-1d6f94dc4d62.jpg)
 
 
 
