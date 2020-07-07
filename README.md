@@ -1,2 +1,18 @@
-# VelhaPortugol
-Jogo da velha criado com o intuito de avaliação no primeiro semestre de Segurança da Informação.
+VelhaPortugol é um Jogo da velha com um tabuleiro de 9x9, criado com o intuito de avaliação no primeiro semestre de Segurança da Informação.
+
+Regras:
+As regras são idênticas ao jogo convencional, contudo, para ganhar nesse, é necessário que um dos dois jogadores faça uma sequência de cinco casas, na diagonal, na vertical ou na horizontal.
+
+Possíveis melhorias: 
+-Modo dois jogadores
+-Inteligência Artificial - Minimax com Poda Alfa-Beta
+-Níveis de dificuldade
+-Adição de sons e animações
+
+
+
+
+
+
+
+
